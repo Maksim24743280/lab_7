@@ -8,5 +8,4 @@
 1. Сборка и запуск программы:
    ```bash
    mvn clean compile exec:java
-   ```#   l a b _ 7 
    ```
